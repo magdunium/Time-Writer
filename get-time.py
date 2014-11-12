@@ -8,5 +8,5 @@ file.write(time.asctime() + "\n" )
 
 file.close()
 
-execfile("test.py") #wywołuje i wykonuje skrypt test.py
+#execfile("test.py") #wywołuj forlater
 
